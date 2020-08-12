@@ -1,2 +1,2 @@
 #GitTest
-This is the first git repository
+This is my first git repository
